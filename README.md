@@ -42,7 +42,7 @@ JavaScript (Vanilla JS) (DOM Manipulation, Dynamic Filtering, State Management)
 
 Clone or Download the Repository:
 
-git clone https://github.com/eruine/To_Do_List.git
+git clone https://github.com/houssam98/To_Do_List.git
 
 
 Run the Project:
